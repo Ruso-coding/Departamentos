@@ -1,2 +1,2 @@
 # Departamentos
-Sistema de departamentos con conexion a una BBDD SQL
+Sistema de busqueda de departamentos con conexion a una BBDD SQL.
